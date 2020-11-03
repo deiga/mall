@@ -155,7 +155,7 @@ GEM
       cocaine (~> 0.5.3)
       mime-types
     polyglot (0.3.4)
-    rack (1.5.2)
+    rack (1.5.5)
     rack-pjax (0.7.0)
       nokogiri (~> 1.5)
       rack (~> 1.3)
